@@ -1,0 +1,8 @@
+- item: Blog
+  url: ""
+- item: Quem Somos
+  url: post/quem-somos/
+- item: Projetos
+  url: post/projetos/
+- item: Tech Stack
+  url: post/linguagens/
